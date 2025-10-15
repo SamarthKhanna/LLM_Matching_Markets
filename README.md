@@ -1,7 +1,7 @@
 # LLM_Matching_Markets
 Benchmarking algorithmic reasoning with ranked preferences
 
-Here we explain how to use the code provided as part of the supplementary material for this submission.
+This repository provides the code and data used our NeurIPS 2025 paper ["Matching Markets Meet LLMs: Algorithmic Reasoning with Ranked Preferences"](https://neurips.cc/virtual/2025/poster/120182). Below we how this code can be used to perform each task discussed in the paper, as well as the fine-tuning pipeline. 
 
 ### Generating Evaluation Data
 
