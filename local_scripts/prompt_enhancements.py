@@ -26,7 +26,7 @@ specifications = {
 
 model_name = 'deepseek_dist'
 
-access_token = "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"
+access_token = ""
 login(token=access_token, add_to_git_credential=True, new_session=False)
 model_id = specifications[model_name]
 model = LLM(model=model_id,
